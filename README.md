@@ -2,6 +2,10 @@
 
 A React Native weather application built with TypeScript and Redux, providing current weather conditions and 5-day forecasts.
 
+
+https://github.com/user-attachments/assets/92d93466-b2b7-48ba-9101-086a82133976
+
+
 ## Features
 
 - Current weather conditions
